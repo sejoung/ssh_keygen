@@ -1,0 +1,14 @@
+{
+  "name": "ssh_keygen",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "git@github.com:sejoung/ssh_keygen.git",
+  "author": "sejoung kim <sejoung@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^38.4.0"
+  }
+}
